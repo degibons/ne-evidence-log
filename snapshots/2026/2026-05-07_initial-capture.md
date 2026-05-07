@@ -8,7 +8,9 @@
 
 - `ne-evidence-archive`
 
-$198c34ee7213286ccc53b78690ff3059356bf61c4`
+Commit приватного репозитория:
+
+- `98c34ee7213286ccc53b78690ff3059356bf61c4`
 
 SHA-256 хеш архива snapshot:
 
